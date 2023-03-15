@@ -27,11 +27,6 @@ Step 7 :
 Print the result.
 
 ## Program:
-
-Name   : M.RAJESHKANNAN 
-
-Reg no : 212221230081
-
 ```
 using System;
 namespace eligible
@@ -75,10 +70,8 @@ namespace eligible
 
 ## Output:
 
-![Output_1](OP1.png)
- 
+![o1](https://user-images.githubusercontent.com/94381788/225391375-4ff54679-2901-4587-bfd2-c8dafc8cbc57.jpg)
 
- ![Output_2](OP2.png)
 
 
 
